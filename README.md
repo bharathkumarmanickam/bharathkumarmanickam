@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bharathkumarmanickam
-- 👀 I’m interested in Developing and Security Testing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Security Testers
+- 👀 I’m interested in Full Stack Development on Machine Learning and Security Testing
+- 🌱 I’m currently exploring
+- 💞️ I’m looking to collaborate on Machine Learning Developers
 - 📫 How to reach me (bharathmanvas@gmail.com)
 
 <!---
